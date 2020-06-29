@@ -1,12 +1,9 @@
 package com.cashbang.entity;
 
-import org.apache.ibatis.annotations.Mapper;
-
 /**
  * @Author: huangdj
  * @Date: 2020/6/29
  */
-@Mapper
 public class OrderItem {
 
     private Long itemId;
